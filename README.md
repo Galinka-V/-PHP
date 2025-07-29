@@ -8,5 +8,5 @@
 - [Задание](https://github.com/Galinka-V/-PHP/blob/main/index.php)
 
 ## ○ Домашнее задание к занятию "Базовые операторы и функции" 
-- [Задание](https://replit.com/@galinkavin/Bazovyie-opieratory-i-funktsii?v=1)
+- [Задание](https://github.com/Galinka-V/-PHP/blob/main/index3.php)
 
