@@ -10,3 +10,5 @@
 ## ○ Домашнее задание к занятию "Базовые операторы и функции" 
 - [Задание](https://github.com/Galinka-V/-PHP/blob/main/index3.php)
 
+## ○ Домашнее задание к занятию «2.1. Создание функций в PHP»
+- [Задание](https://github.com/Galinka-V/-PHP/blob/main/index4.php)
