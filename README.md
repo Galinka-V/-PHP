@@ -12,3 +12,6 @@
 
 ## ○ Домашнее задание к занятию «2.1. Создание функций в PHP»
 - [Задание](https://github.com/Galinka-V/-PHP/blob/main/index4.php)
+
+## ○ Домашнее задание к занятию "Основы работы с объектами"
+- [Задание](https://github.com/Galinka-V/-PHP/blob/main/index5.php)
