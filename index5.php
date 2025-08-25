@@ -20,7 +20,7 @@ function generateList($year, $month) {
         // попадает текущий день на рабочий день
         if ($workDays % 3 == 0) {
             // рабочий день
-            $list[] = "\033[31m$currentDay\033[0m";
+            $list[] = "+ \033[31m$currentDay\033[0m + run";
             $workDays++;
         } else {
             // выходной день
